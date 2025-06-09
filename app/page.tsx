@@ -12,7 +12,7 @@ export default function Home() {
           height={38}
           priority
         />
-      
+        <h1 className="text-center text-3xl text-purple-500">How to deploy nextjs project in vercel</h1>
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
             Get started by editing{" "}
